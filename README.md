@@ -3,3 +3,4 @@
 Please follow this unit in this order:
 1. getting-started.ipynb
 2. setting-up-and-submitting-homeworks.ipynb
+3. logistics.ipynb
